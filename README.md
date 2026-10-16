@@ -1,7 +1,7 @@
 Ramuta Group
 Automated Trading & Execution Platform
 
-Robuta is an advanced, high-performance automated trading platform designed for real-time script execution, strategy monitoring, and trade analytics across desktop and mobile devices.
+Ramuta Group is an advanced, high-performance automated trading platform designed for real-time script execution, strategy monitoring, and trade analytics across desktop and mobile devices.
 
 🔒 Proprietary & Confidential
 This repository contains proprietary software owned by the project author.
